@@ -1,4 +1,6 @@
 import './style.css';
+import '../weather-icons';
+import '../img';
 
 const search = document.querySelector('.search input');
 const searchBtn = document.querySelector('.search button');
